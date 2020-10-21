@@ -1,0 +1,144 @@
+.nav-color{
+    height: 6rem;
+    background-color: #00426f;
+    color: white;
+}
+.nav-link{
+    color: white !important;
+}
+.carousel-caption{
+    right: unset !important;
+}
+.fontdancing{
+    font-family: 'Dancing Script', cursive;
+}
+.yellow{
+    color: yellow;
+}
+.darkyellow{
+    color: #ff8f0e;
+}
+.icon{
+        height: 6rem;
+}
+.btn-warning{
+    border-radius: 20px;
+color: white;
+font-weight: bold;
+border-color: white;
+line-height: 31px;
+padding: 7px 20px;
+}
+.btn-secondary{
+    border-radius: 20px;
+color: white;
+font-weight: bold;
+border-color: white;
+line-height: 31px;
+padding: 7px 20px;
+}
+.section1{
+    background-color: #d3e3f3;
+    padding: 2rem;
+}
+.section2{
+    background-color: #c0d8f0;
+    padding: 2rem;
+}
+.section3{
+    background-color: #adcef1;
+    padding: 2rem;
+}
+.row{
+    margin-right: unset;
+    margin-left: unset;
+}
+.section-heading{
+    color: blue;
+font-weight: bold;
+font-size: revert;
+}
+.section-text{
+    color: blue;
+}
+.welcome-section{
+    background-color: white;
+}
+.pa-2{
+    padding: 3rem !important;
+}
+.pb-1{
+    padding: .5rem !important;
+}
+.welcome-section-img{
+    border-radius: 15px;
+}
+.welcome-section-text{
+    font-weight: 600;
+}
+.hl {
+    border-bottom: 6px solid #ff8f0e;
+    margin-left: 25%;
+    margin-right: 25%;
+  }
+  .hll {
+    border-bottom: 6px solid #ff8f0e;
+    margin-right: 15%; 
+  }  
+.hl2 {
+    border-bottom: 3px solid white;
+    /* margin-left: 5%;
+    margin-right: 5%; */
+}
+.help-section{
+    background-color: #d3e4f5;
+}  
+.help-section-heading{
+    color: blue;
+    font-weight: bold;
+}
+.help-section-text{
+    font-weight: 600;
+}
+.hlpcontainer{
+    background-color: white;
+    border-radius: 15px;
+}
+.flex-container {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+  }
+.space-between { 
+    justify-content: space-between; 
+}  
+.footer{
+    background-color: #01468b;
+    color: white;
+}
+.fa{
+    color: white;
+}
+.footer-heading{
+    font-weight: bold;
+}
+.copyrights{
+    font-weight: lighter;
+    color: lightgray;
+}
+.imgplaceholder{
+    width: 90%;
+}
+.viewmore{
+    background-color: #01509e;
+    columns: white;
+    border-radius: 15px;
+}
+.viewmore:hover{
+    background-color: white;
+    color:  #01509e;
+}
+input{
+    border-radius: 15px;
+}
